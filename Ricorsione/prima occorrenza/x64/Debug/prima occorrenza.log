@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\angel\Desktop\esercitazione di ripasso\prima occorrenza\main.c(6,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  prima occorrenza.vcxproj -> C:\Users\angel\Desktop\esercitazione di ripasso\prima occorrenza\x64\Debug\prima occorrenza.exe

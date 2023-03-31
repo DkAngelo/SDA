@@ -1,0 +1,4 @@
+﻿  vettore.c
+C:\Users\angel\Desktop\esercitazione di ripasso\Project4\vettore.c(13,8): warning C4047: 'function': 'vettore *' differs in levels of indirection from 'vettore **'
+C:\Users\angel\Desktop\esercitazione di ripasso\Project4\vettore.c(13,6): warning C4024: 'Pop': different types for formal and actual parameter 1
+  Project4.vcxproj -> C:\Users\angel\Desktop\esercitazione di ripasso\Project4\x64\Debug\Project4.exe

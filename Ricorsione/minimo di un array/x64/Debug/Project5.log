@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\angel\Desktop\Informatica\Project5\main.c(5,2): warning C4013: 'minimo' undefined; assuming extern returning int
+C:\Users\angel\Desktop\Informatica\Project5\main.c(22): warning C4715: 'minimo': not all control paths return a value
+  Project5.vcxproj -> C:\Users\angel\Desktop\Informatica\Project5\x64\Debug\Project5.exe
