@@ -50,6 +50,3 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
-
-# Directories
-Backtracking pt.1/SubsetK(sbagliato)
