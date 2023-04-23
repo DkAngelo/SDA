@@ -1,0 +1,3 @@
+﻿  stacks.c
+C:\Users\angel\Desktop\Info\SDA\Algoritmi Greedy\Stack\stacks.c(69,20): warning C4047: '=': 'size_t' differs in levels of indirection from 'void *'
+  Stack.vcxproj -> C:\Users\angel\Desktop\Info\SDA\Algoritmi Greedy\Stack\x64\Debug\Stack.exe
