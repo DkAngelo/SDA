@@ -19,7 +19,7 @@ Item* ListLoad(const char* filename) {
 	while (1) {
 
 		int c = ElemRead(f, &tmp);
-		if (c == EOF) {
+		if (c == 0) {
 			break;
 		}
 		list = ListInsertHead(&tmp, list);
@@ -30,6 +30,5 @@ Item* ListLoad(const char* filename) {
 }
 
 /*int main(void) {
-
 	ListLoad("data_00.txt");
 }*/
