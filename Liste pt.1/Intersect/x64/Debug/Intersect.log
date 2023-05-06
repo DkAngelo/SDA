@@ -1,0 +1,5 @@
+﻿  intersect.c
+C:\Users\angel\Desktop\Info\SDA\Liste pt.1\Intersect\intersect.c(13,30): warning C4090: '=': different 'const' qualifiers
+C:\Users\angel\Desktop\Info\SDA\Liste pt.1\Intersect\intersect.c(16,31): warning C4090: '=': different 'const' qualifiers
+C:\Users\angel\Desktop\Info\SDA\Liste pt.1\Intersect\intersect.c(10,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\angel\Desktop\Info\SDA\Liste pt.1\Intersect\intersect.c(14,1): warning C4090: 'initializing': different 'const' qualifiers
