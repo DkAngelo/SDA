@@ -1,0 +1,7 @@
+﻿  address_book.c
+  elemtype.c
+C:\Users\angel\Desktop\Info\SDA\Liste pt.2\Address Book - Append\elemtype.c(28,22): warning C4477: 'fscanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'ElemType *'
+  list.c
+  main.c
+  Generating Code...
+  Address Book - Append.vcxproj -> C:\Users\angel\Desktop\Info\SDA\Liste pt.2\Address Book - Append\x64\Debug\Address Book - Append.exe
