@@ -1,0 +1,3 @@
+﻿  euclide.c
+C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.10\Euclide\euclide.c(6): warning C4715: 'MCDRec': not all control paths return a value
+  Euclide.vcxproj -> C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.10\Euclide\x64\Debug\Euclide.exe

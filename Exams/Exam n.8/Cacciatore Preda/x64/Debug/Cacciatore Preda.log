@@ -1,0 +1,5 @@
+﻿  cattura.c
+C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.8\Cacciatore Preda\cattura.c(26,3): warning C4033: 'CacciatorePredaRec' must return a value
+C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.8\Cacciatore Preda\cattura.c(37,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.8\Cacciatore Preda\cattura.c(53): warning C4716: 'CacciatorePredaRec': must return a value
+  Cacciatore Preda.vcxproj -> C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.8\Cacciatore Preda\x64\Debug\Cacciatore Preda.exe

@@ -1,0 +1,3 @@
+﻿  atoi.c
+C:\Users\angel\Desktop\Info\SDA\Ascii to Int\atoi.c(8,19): warning C4244: 'function': conversion from 'size_t' to 'double', possible loss of data
+C:\Users\angel\Desktop\Info\SDA\Ascii to Int\atoi.c(8,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
