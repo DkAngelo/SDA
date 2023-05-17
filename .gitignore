@@ -51,5 +51,6 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-#Personal directories
+# Personal directories
 Spiegazioni
+Exams
