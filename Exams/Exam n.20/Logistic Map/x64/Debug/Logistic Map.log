@@ -1,0 +1,3 @@
+﻿  logisticmap.c
+C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.20\Logistic Map\logisticmap.c(28,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Logistic Map.vcxproj -> C:\Users\angel\Desktop\Info\SDA\Exams\Exam n.20\Logistic Map\x64\Debug\Logistic Map.exe
